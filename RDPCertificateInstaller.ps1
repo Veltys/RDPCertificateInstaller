@@ -1,4 +1,5 @@
 #!/usr/bin/env pwsh
+
 # Title         : RDPCertificateInstaller.ps1
 # Description   : Script to automatically install as RDP certificate a given one by its domain name
 # Author        : Veltys
