@@ -6,3 +6,29 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Veltys/RDPCertificateInstaller/blob/master/LICENSE)
 
 Small script to automatically install as RDP certificate a given one by its domain name
+
+## Description
+Small script that allows automatically install a specified RDP certificate by its domain name
+
+## Changelog
+### To-do (*TODO*)
+- [ ] Create a to-do list
+
+### [1.0.3] - 2022-12-28
+#### Added
+- Releases
+
+#### Fixed
+- **README.md** format
+
+### [1.0.2] - 2022-11-25
+#### Deleted
+- Unnecessary echo
+
+### [1.0.1] - 2022-11-25
+#### Fixed
+- Code quality
+
+### [1.0.0] - 2022-08-19
+#### Added
+- All files with the minimum required functionality
