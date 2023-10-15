@@ -3,9 +3,9 @@
 # Title         : RDPCertificateInstaller.ps1
 # Description   : Script to automatically install as RDP certificate a given one by its domain name
 # Author        : Veltys
-# Date          : 2022-11-25
-# Version       : 1.0.2
-# Usage         : powershell RDPCertificateInstaller.ps1
+# Date          : 2023-10-15
+# Version       : 1.0.3
+# Usage         : pwsh RDPCertificateInstaller.ps1
 # Notes         : Must be run as superuser
 
 

@@ -14,6 +14,10 @@ Small script that allows automatically install a specified RDP certificate by it
 ### To-do (*TODO*)
 - [ ] Create a to-do list
 
+### [1.0.4] - 2023-10-15
+#### Fixed
+- Powershell executable
+
 ### [1.0.3] - 2022-12-28
 #### Added
 - Releases
